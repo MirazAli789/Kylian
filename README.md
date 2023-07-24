@@ -1,2 +1,2 @@
-# Kylian
-I made a basic player information page using HTML and CSS.
+![image](https://github.com/MirazAli789/Kylian/assets/125981694/78a1e041-6827-4a4b-9361-cabbe31a87d8)
+
